@@ -3,7 +3,7 @@
 export function HomePage() {
   return (
     <div>
-      Home page
+      Home page 1
     </div>
   )
 }
